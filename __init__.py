@@ -8,7 +8,7 @@ def main(req: func.HttpRequest) -> func.HttpResponse:
     logging.info('Python HTTP trigger function processed a request.')
         
     connection_str = os.environ.get("EventHubConnectionString")
-    eventhub_name = 'newactivityhub'
+    eventhub_name = 'newactivity'
     
     client  = EventHubProducerClient.from_connection_string(connection_str, eventhub_name=eventhub_name)
     
