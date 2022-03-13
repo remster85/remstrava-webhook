@@ -14,7 +14,7 @@ variables:
   functionAppName: 'remstrava-webhook'
 
   # Agent VM image name
-  vmImageName: 'windows-latest'
+  vmImageName: 'windows-2019'
 
   # Working Directory
   workingDirectory: 'remstrava-webhook'
