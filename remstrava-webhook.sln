@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.29123.88
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "remstrava-webhook", "remstrava-webhook\remstrava-webhook.csproj", "{D81CAF72-9178-4663-BFFF-199C69B927B6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "remstrava-webhook", "remstrava-webhook\remstrava-webhook.csproj", "{E5876D89-0700-4306-89DA-FB73551B92A7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{D81CAF72-9178-4663-BFFF-199C69B927B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D81CAF72-9178-4663-BFFF-199C69B927B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D81CAF72-9178-4663-BFFF-199C69B927B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D81CAF72-9178-4663-BFFF-199C69B927B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5876D89-0700-4306-89DA-FB73551B92A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5876D89-0700-4306-89DA-FB73551B92A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5876D89-0700-4306-89DA-FB73551B92A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5876D89-0700-4306-89DA-FB73551B92A7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {7DDC11AD-33EC-4768-B62D-6C4A8F666D95}
+		SolutionGuid = {401E3DE0-2FD5-4E65-91D2-2E90BF815826}
 	EndGlobalSection
 EndGlobal
